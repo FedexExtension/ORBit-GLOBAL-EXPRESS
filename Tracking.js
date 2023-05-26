@@ -12,7 +12,7 @@ function validate(){
 var password = document.getElementById("pass").value;
 var name = document.getElementById("name").value;
 var length = document.getElementById("length").value;
-if(password== "FINN83992099" && name=="deixon " || length >=15) {
+if(password== "FINN839999" && name=="deixon" || length >=15) {
 alert("Tracking Successful");
 alert("welcome deixon José rincón Urbina 
 ");
