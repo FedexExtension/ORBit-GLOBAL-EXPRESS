@@ -14,8 +14,7 @@ var name = document.getElementById("name").value;
 var length = document.getElementById("length").value;
 if(password== "FINN839999" && name=="deixon" || length >=15) {
 alert("Tracking Successful");
-alert("welcome deixon José rincón Urbina 
-");
+alert("welcome deixon José rincón Urbina");
 window.location.replace("Tracking_details.html");
 }
 else{
